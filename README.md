@@ -2,7 +2,7 @@
 
 Bu proje, modern web teknolojileri kullanılarak geliştirilmiş, **responsive (mobil uyumlu)** kişisel bir CV ve portfolyo web sitesidir. Üniversite final projesi olarak hazırlanmış olup, aynı zamanda profesyonel kariyerim için bir vitrin niteliği taşımaktadır.
 
-🔗 **Canlı Önizleme (Live Demo):** [Buraya Github Pages Linkini Yapıştıracaksın]
+🔗 **Canlı Önizleme (Live Demo):**(https://lomion9.github.io/cv-sitem/)
 
 ---
 
